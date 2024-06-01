@@ -1,0 +1,1 @@
+# Classification-and-Prediction-of-Mental-Health-Patients-using-Naive-Bayes-Model
